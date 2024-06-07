@@ -1,0 +1,28 @@
+.fa-square-whatsapp {
+    font-size: 50px;
+
+}
+footer {
+    background-color: rgba(30, 28, 41, 0.301);
+    /* text-align: center;*/
+    color: aliceblue;
+    padding: 10px;
+    flex: 100%;
+    text-align: center;
+
+
+}
+
+h2 {
+    text-align: center;
+    padding: 2px;
+    margin: 2px;
+    color: rgb(208, 243, 126)
+}
+
+h3 {
+    text-align: center;
+    padding: 2px;
+    margin: 2px;
+    color: rgb(61, 53, 167)
+}

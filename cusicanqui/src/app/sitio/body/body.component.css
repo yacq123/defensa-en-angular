@@ -1,0 +1,29 @@
+img{
+    width: 100%;
+        height: 100%;
+}
+.container1 {
+
+
+    margin-inline-start: 3%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    
+    color: wheat;
+   
+
+
+
+    /* Espacio de 20px entre cajas */
+
+}
+
+.imagen{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+.h7{
+    height: 600px;
+}
